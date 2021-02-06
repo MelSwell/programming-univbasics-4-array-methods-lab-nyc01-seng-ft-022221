@@ -11,7 +11,8 @@ def using_reverse(array)
   array.reverse!
   array
 end
-
+nums = [1,2,3,4]
+puts using_reverse(nums)
 def using_first(array)
 
 end
